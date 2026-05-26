@@ -1,4 +1,4 @@
-# FC Barcelona Data-analyse — Datalab Groep 6
+# FC Barcelona Data-analyse - Datalab Groep 6
 
 ## Over het project
 
